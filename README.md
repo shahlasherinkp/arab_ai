@@ -1,16 +1,36 @@
 # arab_ai
 
-A new Flutter project.
+Flutter version: 3.7.7
 
-## Getting Started
+credits: https://www.figma.com/file/HwEEw3FBzkArUICQ9KpVzP?node-id=332:10581&comments-enabled=1&viewer=1&locale=en
 
-This project is a starting point for a Flutter application.
+## screenshot
+![mobile app design](screenshot/1.png  "Title")
+![mobile app design](screenshot/2.png  "Title")
+![mobile app design](screenshot/3.png "Title")
+![mobile app design](screenshot/4.png  "Title")
+![mobile app design](screenshot/14.png  "Title")
+![mobile app design](screenshot/15.png  "Title")
+![mobile app design](screenshot/16.png  "Title")
+![mobile app design](screenshot/17.png  "Title")
+![mobile app design](screenshot/18.png  "Title")
+![mobile app design](screenshot/5.png  "Title")
+![mobile app design](screenshot/6.png  "Title")
+![mobile app design](screenshot/7.png  "Title")
+![mobile app design](screenshot/8.png  "Title")
+![mobile app design](screenshot/9.png  "Title")
+![mobile app design](screenshot/10.png  "Title")
+![mobile app design](screenshot/11.png  "Title")
+![mobile app design](screenshot/12.png  "Title")
+![mobile app design](screenshot/13.png  "Title")
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## feature
+Splash  
+Login   
+Home   
+Routing  
+Theme  
+Dio   
+Validation
+User Notifications
+Logging
