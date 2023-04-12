@@ -88,7 +88,7 @@ class _SignupScreenState extends State<SignupScreen> {
               ),
               const SizedBox(
                 height: 15,
-              ),
+              ),     
               SizedBox(
                 height: 50,
                 width: double.infinity,

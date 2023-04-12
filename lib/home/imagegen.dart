@@ -113,33 +113,33 @@ class _ImageGenerationState extends State<ImageGeneration> {
                               ],
                             ),
                           ),
-                          SizedBox(
+                          const SizedBox(
                             height: 15,
                           ),
                           Container(
                             // width: double.infinity,
                             child: Column(
                               children: [
-                                SizedBox(
+                                const SizedBox(
                                   height: 20,
                                 ),
                                 Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    AutoSizeText(
+                                    const AutoSizeText(
                                       'Explore AI-generated images',
                                       style: TextStyle(
                                           fontSize: 20, fontWeight: FontWeight.w600),
                                     ),
-                                    SizedBox(
+                                    const SizedBox(
                                       height: 10,
                                     ),
-                                    AutoSizeText(
+                                    const AutoSizeText(
                                       'Describe what is on your mind. For best results, be \nspecific..',
                                       style: TextStyle(
                                           fontSize: 14, fontWeight: FontWeight.w400),
                                     ),
-                                    SizedBox(
+                                    const SizedBox(
                                       height: 20,
                                     ),
                                     SizedBox(
@@ -156,13 +156,13 @@ class _ImageGenerationState extends State<ImageGeneration> {
                                                 'Example a car flying in the space'),
                                       ),
                                     ),
-                                    SizedBox(
+                                    const SizedBox(
                                       height: 10,
                                     ),
                                     Row(
                                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                       children: [
-                                        Text(
+                                        const Text(
                                           'Need some help',
                                           style: TextStyle(
                                             color: Colors.grey,
@@ -183,7 +183,7 @@ class _ImageGenerationState extends State<ImageGeneration> {
                   ),
                  
                  
-                  SizedBox(height: 15,),
+                  const SizedBox(height: 15,),
                   
                   
                   
@@ -199,7 +199,7 @@ class _ImageGenerationState extends State<ImageGeneration> {
                             });
                           },
                           child: Chip(
-                          backgroundColor: Color.fromARGB(255, 212, 212, 212),
+                          backgroundColor: const Color.fromARGB(255, 212, 212, 212),
                           label: Text(i),
                                               ),
                         ),
@@ -229,7 +229,7 @@ class _ImageGenerationState extends State<ImageGeneration> {
           //     ),
           //   ),
           // )
-          SizedBox(height: 10,),
+          const SizedBox(height: 10,),
           Card(
             elevation: 10,
             child: Container(
@@ -251,11 +251,11 @@ class _ImageGenerationState extends State<ImageGeneration> {
                         
                       ){},
                       style: ButtonStyle(
-                        backgroundColor: MaterialStateProperty.all(Color(0xFFF5F5F5)),
+                        backgroundColor: MaterialStateProperty.all(const Color(0xFFF5F5F5)),
                         padding: MaterialStateProperty.all(EdgeInsets.zero)
                         
                         ),
-                       child: Text('Generate Image', style: TextStyle(
+                       child: const Text('Generate Image', style: TextStyle(
                         color: Color.fromARGB(255, 132, 132, 132),
                         fontSize: 15,
                         fontWeight: FontWeight.w600
