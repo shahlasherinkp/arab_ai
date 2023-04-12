@@ -7,8 +7,8 @@ credits: https://www.figma.com/file/HwEEw3FBzkArUICQ9KpVzP?node-id=332:10581&com
 ## screenshot
 
 
-![mobile app design](screenshot\1.png   "Title")
-screenshot/1.png
+![mobile app design](screenshot/1.png   "Title")
+
 ![mobile app design](screenshot/2.png   "Title")
 ![mobile app design](screenshot/3.png  "Title")
 ![mobile app design](screenshot/4.png  "Title")
